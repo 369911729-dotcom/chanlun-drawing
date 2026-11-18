@@ -1,0 +1,12 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 产物与临时数据
+out/
+*.svg
+!references/**/*.svg
+tmp/
+
+# 系统垃圾
+.DS_Store

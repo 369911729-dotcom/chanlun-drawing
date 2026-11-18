@@ -1,0 +1,6 @@
+interface:
+  display_name: "缠论画线"
+  short_description: "把 strict 笔链、P2 线段和 P4 结构段画成 SVG"
+  default_prompt: "Use $chanlun-drawing to turn this K-line data into an auditable Chanlun structure chart."
+policy:
+  allow_implicit_invocation: true
